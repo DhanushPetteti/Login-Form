@@ -34,8 +34,8 @@
         .forgot{
             display: flex;
             align-items: center;
-            justify-content: space-around;
-            margin-bottom: 20px;
+            justify-content: space-evenly;
+            margin-bottom: 15px;
         }
 
         button{
@@ -54,5 +54,9 @@
             cursor: pointer;
             transform: scale(1.1);
         }
-
+        p{
+        margin-left: 70px;
+        margin-top: 20px;
+        }
         
+
